@@ -1,0 +1,1 @@
+Documents and notes for this project. Managed by obsidian.
